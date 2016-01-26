@@ -1,0 +1,5 @@
+sort() returns a new vector
+hist() takes a vector of numbers and produces a histogram, a highly structured object, with the side-effect of making a plot
+Similarly ecdf() produces a cumulative-density-function object
+summary() gives a five-number summary of numerical vectors
+any() and all() are useful on Boolean vectors
